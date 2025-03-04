@@ -1,0 +1,76 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/mcata/.m2/repository/org/netbeans/external/AbsoluteLayout/RELEASE126/AbsoluteLayout-RELEASE126.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/mcata/trabajo/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/mcata/trabajo/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'trabajo 1.0 API'
+-use
+-version
+-windowtitle
+'trabajo 1.0 API'
+poo.trabajo
+poo.trabajo.interfaces
+'C:/Users/mcata/trabajo/src/main/java/poo/trabajo/Carro.java'
+'C:/Users/mcata/trabajo/src/main/java/poo/trabajo/Cliente.java'
+'C:/Users/mcata/trabajo/src/main/java/poo/trabajo/Cliente_empresa.java'
+'C:/Users/mcata/trabajo/src/main/java/poo/trabajo/Cliente_particular.java'
+'C:/Users/mcata/trabajo/src/main/java/poo/trabajo/DatosClientes.java'
+'C:/Users/mcata/trabajo/src/main/java/poo/trabajo/DatosProductos.java'
+'C:/Users/mcata/trabajo/src/main/java/poo/trabajo/Direccion.java'
+'C:/Users/mcata/trabajo/src/main/java/poo/trabajo/Exceptions.java'
+'C:/Users/mcata/trabajo/src/main/java/poo/trabajo/Imgtabla.java'
+'C:/Users/mcata/trabajo/src/main/java/poo/trabajo/interfaces/AñadirProductos.java'
+'C:/Users/mcata/trabajo/src/main/java/poo/trabajo/interfaces/BusquedaProductos.java'
+'C:/Users/mcata/trabajo/src/main/java/poo/trabajo/interfaces/EsCliente.java'
+'C:/Users/mcata/trabajo/src/main/java/poo/trabajo/interfaces/Facturas.java'
+'C:/Users/mcata/trabajo/src/main/java/poo/trabajo/interfaces/Login.java'
+'C:/Users/mcata/trabajo/src/main/java/poo/trabajo/interfaces/ModificarDatoss.java'
+'C:/Users/mcata/trabajo/src/main/java/poo/trabajo/interfaces/MostrarCesta.java'
+'C:/Users/mcata/trabajo/src/main/java/poo/trabajo/interfaces/MostrarProductos.java'
+'C:/Users/mcata/trabajo/src/main/java/poo/trabajo/interfaces/MostrarUsuarios.java'
+'C:/Users/mcata/trabajo/src/main/java/poo/trabajo/interfaces/Opiniones.java'
+'C:/Users/mcata/trabajo/src/main/java/poo/trabajo/interfaces/PanelAdmin.java'
+'C:/Users/mcata/trabajo/src/main/java/poo/trabajo/interfaces/Registro_usuario.java'
+'C:/Users/mcata/trabajo/src/main/java/poo/trabajo/interfaces/VerCompras.java'
+'C:/Users/mcata/trabajo/src/main/java/poo/trabajo/Opiniones.java'
+'C:/Users/mcata/trabajo/src/main/java/poo/trabajo/Productos.java'
+'C:/Users/mcata/trabajo/src/main/java/poo/trabajo/Tarjeta.java'
+'C:/Users/mcata/trabajo/src/main/java/poo/trabajo/Venta.java'
+'C:/Users/mcata/trabajo/src/main/java/poo/trabajo/VentasProductos.java'
+C:\Users\mcata\.m2\repository\org\netbeans\external\AbsoluteLayout\RELEASE126\AbsoluteLayout-RELEASE126.jar = 1650811375584
+C:\Users\mcata\trabajo\src\main\java = 1653734060573
+C:\Users\mcata\trabajo\target\site\apidocs\allclasses-index.html = 1653778527422
+C:\Users\mcata\trabajo\target\site\apidocs\allpackages-index.html = 1653778527430
+C:\Users\mcata\trabajo\target\site\apidocs\element-list = 1653778526531
+C:\Users\mcata\trabajo\target\site\apidocs\help-doc.html = 1653778527831
+C:\Users\mcata\trabajo\target\site\apidocs\index-all.html = 1653778527809
+C:\Users\mcata\trabajo\target\site\apidocs\index.html = 1653778527247
+C:\Users\mcata\trabajo\target\site\apidocs\jquery-ui.overrides.css = 1653778527973
+C:\Users\mcata\trabajo\target\site\apidocs\member-search-index.js = 1653778527449
+C:\Users\mcata\trabajo\target\site\apidocs\module-search-index.js = 1653778527433
+C:\Users\mcata\trabajo\target\site\apidocs\overview-summary.html = 1653778527814
+C:\Users\mcata\trabajo\target\site\apidocs\overview-tree.html = 1653778527240
+C:\Users\mcata\trabajo\target\site\apidocs\package-search-index.js = 1653778527438
+C:\Users\mcata\trabajo\target\site\apidocs\script.js = 1653778527854
+C:\Users\mcata\trabajo\target\site\apidocs\search.js = 1653778527867
+C:\Users\mcata\trabajo\target\site\apidocs\serialized-form.html = 1653778526943
+C:\Users\mcata\trabajo\target\site\apidocs\stylesheet.css = 1653778527850
+C:\Users\mcata\trabajo\target\site\apidocs\tag-search-index.js = 1653778527451
+C:\Users\mcata\trabajo\target\site\apidocs\type-search-index.js = 1653778527441
